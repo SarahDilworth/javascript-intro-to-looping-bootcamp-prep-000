@@ -11,5 +11,8 @@ function forLoop() {
 }
 
 function whileLoop(){
-  while (i > 0)
+  while (i > 0){
+    console.log (`${i}`);
+  }
+  return ("done");
 }
