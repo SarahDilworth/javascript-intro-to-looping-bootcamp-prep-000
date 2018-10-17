@@ -10,3 +10,6 @@ function forLoop() {
   return forLoop();
 }
 
+function whileLoop(){
+  
+}
